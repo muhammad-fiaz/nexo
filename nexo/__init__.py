@@ -2,5 +2,7 @@
 
 from nexo.server import run_server
 
-if __name__ == "__main__":
+
+def start_nexo_server():
     run_server()
+
