@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "nexo"
+version = "0.0.1"
+description = "A versatile Python web framework that combines simplicity with powerful features, offering an efficient solution for web development."
+authors = ["muhammad-fiaz <contact@muhammadfiaz.com>"]
+license = "Apache-2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
