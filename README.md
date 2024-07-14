@@ -6,6 +6,8 @@ A versatile Python web framework that combines simplicity with powerful features
 
 "Nexo" is an open-source web framework for Python, designed to make web development straightforward while providing robust capabilities. Whether you're building a small project or a large application, Nexo strives to offer a pleasant development experience.
 
+> This Project is Still in Active Development
+
 ## Getting Started
 
 1. **Installation:** Clone the repository and install the necessary dependencies.
